@@ -1,0 +1,22 @@
+Pr1002 Log
+Running for Population Size: 250, Crossover Rate: 0.8, Mutation Rate: 0.01 Tournament Size: 12
+Final Generation Best Candidate: [125 202 343 ... 348 638 375]
+Final Generation Best Fitness: 3551888
+Took 6234.380425691605 Seconds to complete
+
+Running for Population Size: 250, Crossover Rate: 0.8, Mutation Rate: 0.2 Tournament Size: 12
+Final Generation Best Candidate: [  3 183 192 ... 444 290 106]
+Final Generation Best Fitness: 3695678
+Took 6221.707467556 Seconds to complete
+
+Running for Population Size: 250, Crossover Rate: 0.9, Mutation Rate: 0.01 Tournament Size: 12
+Final Generation Best Candidate: [136 172 243 ... 291 592  94]
+Final Generation Best Fitness: 3405603
+Took 6474.894677639008 Seconds to complete
+
+Running for Population Size: 250, Crossover Rate: 0.9, Mutation Rate: 0.2 Tournament Size: 12
+Final Generation Best Candidate: [230 441 992 ... 975 374 119]
+Final Generation Best Fitness: 3547369
+Took 6403.559083938599 Seconds to complete
+
+Pr1002 Complete
